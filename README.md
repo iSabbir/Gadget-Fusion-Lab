@@ -3,6 +3,7 @@
   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH6PnX32DP1HjcU8YPTKXsbY2-gKvByNxSaavr4h51G0kQ7_2SOZQGwf0HNoisbWPOe_XCHpFuxSQ3JV2KoZvp8orDplgFHuEtgP1ju4xnN3WlLAeswor1XjRt3MzSkXUSis5iVZHaIMnb-7a4RKU3cC4C6MJ3vSf4s-HTal_SB51Gb2rwsnJHNv9TDg/s2000/front-view-modern-young-lady-colorful-coat-orange-t-shirt-playing-virtual-reality-black-background-gaming-interactive-play.jpg" alt="Header">
 </p>
 <b>Gadget Fusion Lab</b>
+<h1 align="center"><b>Gadget Fusion Lab</b></h1>
 <!-- Add a catchy title -->
 <h1 align="center">Site Updates and Article Links</h1>
 
