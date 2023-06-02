@@ -36,7 +36,7 @@
 - [Virtual Reality: A Deep Dive into Immersive Experiences and Beyond | The Ultimate Guide](https://gadgetfusionlab.blogspot.com/2023/05/virtual-reality-deep-dive-into.html) - Brief description of the article.
 - [Top 10 Must-Have Gadgets You Need in Your Life Right Now](https://gadgetfusionlab.blogspot.com/2023/04/top-10-must-have-gadgets-you-need-in.html) - Brief description of the article.
 - [From Pixels to Perfection: The Journey of Smartphone Camera](https://gadgetfusionlab.blogspot.com/2023/05/from-pixels-to-perfection-journey-of_5.html) - Brief description of the article.
-- <ul>
+ <ul>
 <li><a href="https://gadgetfusionlab.blogspot.com/2023/05/future-tech-predictions-10-innovations.html">Future Tech Predictions: 10 Innovations to Watch</a></li>
 <li><a href="https://gadgetfusionlab.blogspot.com/2023/05/a-comprehensive-guide-to-cloud-hosting.html">A Comprehensive Guide to Cloud Hosting</a></li>
 <li><a href="https://gadgetfusionlab.blogspot.com/2023/05/from-pixels-to-perfection-journey-of_5.html">From Pixels to Perfection: Journey of Digital Photography</a></li>
