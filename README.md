@@ -24,9 +24,9 @@
 <!-- Add a section for site updates -->
 ## Site Updates
 
-- **[Date]**: Brief description of the update.
-- **[Date]**: Brief description of the update.
-- **[Date]**: Brief description of the update.
+- **[01.03.2023]**: Blog Created By Sabbir.
+- **[05.03.2023]**: Fixed Page Speed and Othe Function.
+- **[15.04.2023]**: Published First Article.
 
 ---
 
