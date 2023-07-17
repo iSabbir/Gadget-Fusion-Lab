@@ -62,7 +62,7 @@ Contributions are welcome! If you have any suggestions, bug reports, or would li
 <!-- Add a section for contact information -->
 ## Contact
 
-If you have any questions or need further assistance, feel free to reach out to us at [email@example.com](mailto:email@example.com).
+If you have any questions or need further assistance, feel free to reach out to us at [Admin@gadgetfusionlab.com](mailto:Admin@gadgetfusionlab.com).
 
 ---
 
