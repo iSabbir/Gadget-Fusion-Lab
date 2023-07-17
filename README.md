@@ -4,7 +4,7 @@
 </p>
 <b>Gadget Fusion Lab</b>
 <h1 align="center"><b>[Gadget Fusion Lab](https://gadgetfusionlab.blogspot.com/)</b></h1>
-<h1>Now [Domain](https://www.gadgetfusionlab.com/)</h1>
+<h1>Now Domain ( https://www.gadgetfusionlab.com/ )</h1>
 <!-- Add a catchy title -->
 <h1 align="center">Site Updates and Article Links</h1>
 
