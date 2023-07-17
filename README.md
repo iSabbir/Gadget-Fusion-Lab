@@ -4,6 +4,7 @@
 </p>
 <b>Gadget Fusion Lab</b>
 <h1 align="center"><b>[Gadget Fusion Lab](https://gadgetfusionlab.blogspot.com/)</b></h1>
+<h1>Now [Domain](https://www.gadgetfusionlab.com/)</h1>
 <!-- Add a catchy title -->
 <h1 align="center">Site Updates and Article Links</h1>
 
@@ -28,6 +29,7 @@
 - **[01.03.2023]**: Blog Created By Sabbir.
 - **[05.03.2023]**: Fixed Page Speed and Othe Function.
 - **[15.04.2023]**: Published First Article.
+- **[15.07.2023]**: [New Top level Domain](https://www.gadgetfusionlab.com/).
 
 ---
 
